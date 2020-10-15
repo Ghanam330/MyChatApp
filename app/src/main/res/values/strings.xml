@@ -1,0 +1,16 @@
+<resources>
+    sources>
+    <string name="app_name">Lets Chat</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="login">Login</string>
+    <string name="enter_username">enter username</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="write_a_message">Type a message</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="enter_password">enter_password</string>
+    <string name="register">LoginUP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
